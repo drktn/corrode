@@ -2,9 +2,9 @@
 
 **A TB-303 acid synthesizer voice for the Electro-Smith Daisy Patch Init**
 
-Corrode brings the iconic acid sound of the Roland TB-303 to a 10HP Eurorack module. Built on Robin Schmidt's [Open303](https://github.com/RobinSchmidt/Open303) DSP engine — widely regarded as the finest open-source 303 emulation — and optimized for the ARM Cortex-M7 processor on the [Daisy Patch Init](https://electro-smith.com/products/patch-init). No built-in sequencer: drive it from your favorite external sequencer via CV/Gate or USB MIDI.
+Corrode brings the iconic acid sound of the Roland TB-303 to a 10HP Eurorack module. Built on Robin Schmidt's [Open303](https://github.com/RobinSchmidt/Open303) DSP engine and optimized for the ARM Cortex-M7 processor on the [Daisy Patch Init](https://electro-smith.com/products/patch-init). No built-in sequencer: drive it from your favorite external sequencer via CV/Gate or USB MIDI.
 
-Inspired by [AcidusVersio](https://github.com/abluenautilus/AcidusVersio) by Blue Nautilus, which proved the Open303 engine runs beautifully on the Daisy platform. Corrode adapts the concept for the Patch Init's different control layout and adds modern C++ improvements, performance optimizations, and expanded CV integration for a deeply patchable Eurorack acid voice.
+Inspired by [AcidusVersio](https://github.com/abluenautilus/AcidusVersio) by Blue Nautilus, which proved the Open303 engine runs on the Daisy platform. Corrode adapts the concept for the patch.Init()'s different control layout and adds modern C++ improvements, performance optimizations, and expanded CV integration for a deeply patchable Eurorack acid voice.
 
 ## Features
 

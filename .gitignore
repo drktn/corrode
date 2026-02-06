@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE / editor
+.vscode/
+
+# OS files
+.DS_Store
+
+# Submodule build artifacts (libraries built in-tree)
+lib/libDaisy/build/
+lib/DaisySP/build/
